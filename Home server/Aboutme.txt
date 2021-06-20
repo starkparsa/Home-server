@@ -1,0 +1,18 @@
+>This project is for creating a home server able to store, retrive, and update files in a locally hosted webserver.
+>Here we are using "flask" library in python for creating an web-based api.
+>We are using HTML, CSS for the front-end to be interactive.
+>We are also going to use NGNIX server to be able to put it on the local network.
+>We are going to use MySQL for storing, retriving, and updating data like passwords, paths of official documents and etc.
+>The way we are going to achive this is placing the files in a secure location while updating their location in SQL.
+>Presently the this will be working only in the local area network(LAN).
+>This will be further updated to be able to use on any where we while being able access this anywhere in the world.
+
+
+
+Requirements:-
+1)Python3 on the device on which this is runnig.
+2)MySQL database on the device.
+3)Libraries such as Flask, MySQL connector to be present.
+4)A good user-interface should be present to not make the users feel the platform is engineered.
+5)A good linux machine which can easily get the work done with minimal setup(preferrably raspberry pi or any server with ram of 2 GB).
+6)Good internet connection when the data will be available over the internet.
